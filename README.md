@@ -1,0 +1,2 @@
+# krasotka
+GitHub Pages
